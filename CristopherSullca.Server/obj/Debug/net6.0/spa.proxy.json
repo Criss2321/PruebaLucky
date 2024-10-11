@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Exam_Cristopher\\Exam_Cristopher\\CristopherSullca\\CristopherSullca.Server\\..\\cristophersullca.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
